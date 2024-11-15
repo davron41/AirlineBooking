@@ -23,12 +23,6 @@ namespace AirlineBookingSystem.Infrastructure.Persistance.Configurations
                 .OnDelete(DeleteBehavior.Cascade)
                 .IsRequired();
         
-            builder
-                .HasMany(b => b.Flights)
-                .WithOne(f => f.Booking)
-                .HasForeignKey(f => f.Booking.Id)   
-                .OnDelete(DeleteBehavior.Cascade)
-                .IsRequired();  
 
           
         }

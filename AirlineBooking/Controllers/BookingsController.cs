@@ -36,9 +36,9 @@ namespace AirlineBooking.Controllers
 
             // Kullanıcının rezervasyonlarını repository'den al ve ilişkili Flight ve Seat bilgilerini yükle
             var bookingsList = _repository.GetBookingsByUserId(userId)
-                .Include(b => b.Flights)
-                .ThenInclude(f => f.Seats)
-                .ThenInclude(s => s.Passenger)
+                .Include(b => b.Flight)
+                .Include(f => f.Seat)
+                .Include(s => s.Passenger)
                 .ToList();
 
             var viewModel = new MyBookingsViewModel

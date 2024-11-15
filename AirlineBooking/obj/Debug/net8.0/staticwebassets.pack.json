@@ -5,6 +5,62 @@
       "PackagePath": "staticwebassets\\AirlineBooking.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\DAVRON 41\\Desktop\\AirlineBooking\\AirlineBooking\\wwwroot\\assets\\client-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\client-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DAVRON 41\\Desktop\\AirlineBooking\\AirlineBooking\\wwwroot\\assets\\client-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\client-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DAVRON 41\\Desktop\\AirlineBooking\\AirlineBooking\\wwwroot\\assets\\client-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\client-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DAVRON 41\\Desktop\\AirlineBooking\\AirlineBooking\\wwwroot\\assets\\client-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\client-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DAVRON 41\\Desktop\\AirlineBooking\\AirlineBooking\\wwwroot\\assets\\header.jpg",
+      "PackagePath": "staticwebassets\\assets\\header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DAVRON 41\\Desktop\\AirlineBooking\\AirlineBooking\\wwwroot\\assets\\lounge-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\lounge-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DAVRON 41\\Desktop\\AirlineBooking\\AirlineBooking\\wwwroot\\assets\\lounge-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\lounge-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DAVRON 41\\Desktop\\AirlineBooking\\AirlineBooking\\wwwroot\\assets\\plan-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\plan-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DAVRON 41\\Desktop\\AirlineBooking\\AirlineBooking\\wwwroot\\assets\\plan-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\plan-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DAVRON 41\\Desktop\\AirlineBooking\\AirlineBooking\\wwwroot\\assets\\plan-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\plan-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DAVRON 41\\Desktop\\AirlineBooking\\AirlineBooking\\wwwroot\\assets\\traveller-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\traveller-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DAVRON 41\\Desktop\\AirlineBooking\\AirlineBooking\\wwwroot\\assets\\traveller-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\traveller-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DAVRON 41\\Desktop\\AirlineBooking\\AirlineBooking\\wwwroot\\assets\\traveller-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\traveller-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DAVRON 41\\Desktop\\AirlineBooking\\AirlineBooking\\wwwroot\\assets\\traveller-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\traveller-4.jpg"
+    },
+    {
       "Id": "C:\\Users\\DAVRON 41\\Desktop\\AirlineBooking\\AirlineBooking\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

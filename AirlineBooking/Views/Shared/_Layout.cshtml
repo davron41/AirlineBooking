@@ -7,12 +7,14 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/AirlineBooking.styles.css" asp-append-version="true" />
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@3.4.0/fonts/remixicon.css"
+          rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" />
 </head>
 <body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">AirlineBooking</a>
+                <a class="navbar-brand" asp-controller="Home" asp-action="Index" style="font-size:larger">Flivan</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -23,13 +25,51 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                            <a class="nav-link text-dark"href="/About">About</a>
+                        </li>
+                          <li class="nav-item">
+                            <a class="nav-link text-dark"  asp-action="Reviews">Reviews</a>
+                        </li>
+                          <li class="nav-item">
+                            <a class="nav-link text-dark"  asp-action="Flights">Flights</a>
+                        </li>
+                          <li class="nav-item">
+                            <a class="nav-link text-dark"  asp-action="Support">Support</a>
                         </li>
                     </ul>
+
+                    <div class="dropdown">
+                        <button type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false" data-bs-auto-close="outside">
+                          Login
+                        </button>
+                        <div class="dropdown-menu dropdown-menu-end">
+                            <form class="px-4 py-3">
+                                <div class="mb-3">
+                                    <label for="exampleDropdownFormEmail1" class="form-label">Email address</label>
+                                    <input type="email" class="form-control" id="exampleDropdownFormEmail1" placeholder="email@example.com">
+                                </div>
+                                <div class="mb-3">
+                                    <label for="exampleDropdownFormPassword1" class="form-label">Password</label>
+                                    <input type="password" class="form-control" id="exampleDropdownFormPassword1" placeholder="Password">
+                                </div>
+                                <div class="mb-3">
+                                    <div class="form-check">
+                                        <input type="checkbox" class="form-check-input" id="dropdownCheck">
+                                        <label class="form-check-label" for="dropdownCheck">
+                                            Remember me
+                                        </label>
+                                    </div>
+                                </div>
+                                <button type="submit" class=" btn btn-primary">Sign in</button>
+                            </form>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="#">New around here? Sign up</a>
+                            <a class="dropdown-item" href="#">Forgot password?</a>
+                        </div>
+                        </div>
                 </div>
             </div>
         </nav>
-    </header>
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
@@ -38,7 +78,7 @@
 
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2024 - AirlineBooking - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            &copy; 2024 - Flivan - <a asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>

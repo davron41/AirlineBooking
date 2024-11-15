@@ -26,6 +26,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/DAVRON 41/Desktop/AirlineBooking/AirlineBooking/Views/Flights/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxpZ2h0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVRON 41/Desktop/AirlineBooking/AirlineBooking/Views/Flights/SearchFlights.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxpZ2h0c1xTZWFyY2hGbGlnaHRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/DAVRON 41/Desktop/AirlineBooking/AirlineBooking/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

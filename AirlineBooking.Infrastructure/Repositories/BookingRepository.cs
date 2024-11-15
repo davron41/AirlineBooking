@@ -30,9 +30,9 @@ namespace AirlineBookingSystem.Infrastructure.Repositories
         {
             return _context.Bookings
                 .Where(b => b.UserId == UserId)
-                .Include(b => b.Flights)
-                .ThenInclude(f => f.Seats)
-                .ThenInclude(s => s.Passenger)
+                .Include(b => b.Flight)
+                .Include(f => f.Seat)
+                .Include(s => s.Passenger)
                 .AsNoTracking()
                 .AsQueryable();
         }

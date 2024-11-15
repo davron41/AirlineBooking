@@ -1,9 +1,3 @@
-C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Infrastructure\obj\Debug\net8.0\AirlineBooking.Infrastructure.csproj.AssemblyReference.cache
-C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Infrastructure\obj\Debug\net8.0\AirlineBooking.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Infrastructure\obj\Debug\net8.0\AirlineBooking.Infrastructure.AssemblyInfoInputs.cache
-C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Infrastructure\obj\Debug\net8.0\AirlineBooking.Infrastructure.AssemblyInfo.cs
-C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Infrastructure\obj\Debug\net8.0\AirlineBooking.Infrastructure.csproj.CoreCompileInputs.cache
-C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Infrastructure\obj\Debug\net8.0\AirlineBooking.Infrastructure.sourcelink.json
 C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Infrastructure\bin\Debug\net8.0\AirlineBooking.Infrastructure.deps.json
 C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Infrastructure\bin\Debug\net8.0\AirlineBooking.Infrastructure.runtimeconfig.json
 C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Infrastructure\bin\Debug\net8.0\AirlineBooking.Infrastructure.dll
@@ -12,6 +6,12 @@ C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Infrastructure\bin\Debu
 C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Infrastructure\bin\Debug\net8.0\AirlineBooking.Domain.dll
 C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Infrastructure\bin\Debug\net8.0\AirlineBooking.Application.pdb
 C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Infrastructure\bin\Debug\net8.0\AirlineBooking.Domain.pdb
+C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Infrastructure\obj\Debug\net8.0\AirlineBooking.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Infrastructure\obj\Debug\net8.0\AirlineBooking.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Infrastructure\obj\Debug\net8.0\AirlineBooking.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Infrastructure\obj\Debug\net8.0\AirlineBooking.Infrastructure.AssemblyInfo.cs
+C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Infrastructure\obj\Debug\net8.0\AirlineBooking.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Infrastructure\obj\Debug\net8.0\AirlineBooking.Infrastructure.sourcelink.json
 C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Infrastructure\obj\Debug\net8.0\AirlineB.5BD197B8.Up2Date
 C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Infrastructure\obj\Debug\net8.0\AirlineBooking.Infrastructure.dll
 C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Infrastructure\obj\Debug\net8.0\refint\AirlineBooking.Infrastructure.dll

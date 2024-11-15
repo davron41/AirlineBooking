@@ -17,7 +17,7 @@ public static class DependencyInjection
         services.AddScoped<IFlightRepository, FlightRepository>();
         services.AddScoped<ISeatRepository, SeatRepository>();
         services.AddScoped<IPassengerRepository, PassengerRepository>();
-        services.AddScoped<ICommonRepository, CommonRepository>();
+   
 
 
         services.AddScoped<IEmailService, IEmailService>();

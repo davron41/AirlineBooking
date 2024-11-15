@@ -18,13 +18,6 @@ namespace AirlineBookingSystem.Infrastructure.Persistance.Configurations
               builder.HasKey(x => x.Id);
 
 
-            builder
-                .HasOne(s => s.Flight)
-                .WithMany(f => f.Seats)
-                .HasForeignKey(s => s.FlightId)
-                .OnDelete(DeleteBehavior.Cascade)
-                .IsRequired();
-
 
             builder
                 .HasOne(s => s.Passenger)

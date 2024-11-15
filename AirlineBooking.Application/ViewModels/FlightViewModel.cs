@@ -10,11 +10,11 @@ namespace AirlineBooking.Application.ViewModels
     {
         public bool IsOneWay { get; set; }
 
-        public string? From { get; set; }
-        public string? To { get; set; }
-        public required DateTime Departure { get; set; }
-        public DateTime Arrival { get; set; }
-        public DateOnly Time { get; set; }
+        public required string From { get; set; }
+        public required string To { get; set; }
+        public required string Departure { get; set; }
+        public string? Arrival { get; set; }
+        public required string Time { get; set; }
         public decimal Price { get; set; }
     }
 }

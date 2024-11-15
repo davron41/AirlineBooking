@@ -20,9 +20,8 @@ namespace AirlineBookingSystem.Domain.Entities
         public required string PhoneNumber { get; set; }    
         public Gender Gender { get; set; }
 
-        public int SeatId {  get; set; }    
-
-        public required virtual Seat Seat { get; set; }
+        public int SeatId { get; set; }
+        public virtual Seat Seat { get; set; }
 
     }
 }

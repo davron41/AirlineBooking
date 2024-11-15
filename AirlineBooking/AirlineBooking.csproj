@@ -28,4 +28,8 @@
     <ProjectReference Include="..\AirlineBooking.Infrastructure\AirlineBooking.Infrastructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Views\Booking\" />
+  </ItemGroup>
+
 </Project>
