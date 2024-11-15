@@ -1,0 +1,16 @@
+C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Application\bin\Debug\net8.0\AirlineBooking.Application.deps.json
+C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Application\bin\Debug\net8.0\AirlineBooking.Application.dll
+C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Application\bin\Debug\net8.0\AirlineBooking.Application.pdb
+C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Application\bin\Debug\net8.0\AirlineBooking.Domain.dll
+C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Application\bin\Debug\net8.0\AirlineBooking.Domain.pdb
+C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Application\obj\Debug\net8.0\AirlineBooking.Application.csproj.AssemblyReference.cache
+C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Application\obj\Debug\net8.0\AirlineBooking.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Application\obj\Debug\net8.0\AirlineBooking.Application.AssemblyInfoInputs.cache
+C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Application\obj\Debug\net8.0\AirlineBooking.Application.AssemblyInfo.cs
+C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Application\obj\Debug\net8.0\AirlineBooking.Application.csproj.CoreCompileInputs.cache
+C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Application\obj\Debug\net8.0\AirlineBooking.Application.sourcelink.json
+C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Application\obj\Debug\net8.0\AirlineB.DC5D8E44.Up2Date
+C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Application\obj\Debug\net8.0\AirlineBooking.Application.dll
+C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Application\obj\Debug\net8.0\refint\AirlineBooking.Application.dll
+C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Application\obj\Debug\net8.0\AirlineBooking.Application.pdb
+C:\Users\DAVRON 41\Desktop\AirlineBooking\AirlineBooking.Application\obj\Debug\net8.0\ref\AirlineBooking.Application.dll
